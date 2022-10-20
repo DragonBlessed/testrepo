@@ -1,0 +1,5 @@
+print("Are you Eric?")
+
+print(input(response)
+if response = "farmlorn":
+  print("you suck!")
